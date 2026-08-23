@@ -9,7 +9,7 @@ This is a place where I keep my finished and unfinished projects. Look around, f
 
 **Stuff I built for my family:**
 * [storytime](https://github.com/jerichoapo/storytime-app): a customized bedtime story generator.
-* [Memento](https://github.com/jerichoapo/photo-app): combine a picture of someone you lost and someone still here into one polaroid (grief tech).
+* [Memento](https://github.com/jerichoapo/memento): combine a picture of someone you lost and someone still here into one polaroid (grief tech).
 
 **My first ever apps I coded by hand back in ~2022 while taking the 100 Days of Python course:**
 * [tip-splitter-calculator](https://github.com/jerichoapo/tip-splitter-calculator): figure out how much everyone needs to tip.
