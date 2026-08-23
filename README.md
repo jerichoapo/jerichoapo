@@ -11,7 +11,7 @@ Welcome to my open garage (aka localhost). Everything in here I built for me or 
 * [Storytime](https://github.com/jerichoapo/storytime-app): a customized bedtime story generator.
 * [photo-app](https://github.com/jerichoapo/photo-app): combines two people who never met into one polaroid.
 
-**My first ever programs I coded by hand back in October 2025 while taking the 100 Days of Python course:**
+**My first ever programs I coded by hand back in 2022 (?) while taking the 100 Days of Python course:**
 
 * [tip-splitter-calculator](https://github.com/jerichoapo/tip-splitter-calculator): figure out how much everyone needs to tip
 * [dice-simulator](https://github.com/jerichoapo/dice-simulator): rolls a d4 through a d20.
