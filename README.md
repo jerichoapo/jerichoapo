@@ -10,7 +10,7 @@ This is a place where I keep my finished and unfinished projects. Look around, f
 **Stuff I built for my family:**
 * [PT SOAP Notes](https://github.com/jerichoapo/pt-documentation-app): a documentation app for a school-based pediatric physical therapist (my wife).
 * [Memento](https://github.com/jerichoapo/memento): combine a picture of someone you lost and someone still here into one polaroid (grief tech).
-* [storytime](https://github.com/jerichoapo/storytime-app): a customized bedtime story generator.
+* [Storytime](https://github.com/jerichoapo/storytime-app): a customized bedtime story generator.
 
 
 **My first ever apps I coded by hand back in ~2022 while taking the 100 Days of Python course:**
