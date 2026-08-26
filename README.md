@@ -13,7 +13,7 @@ This is a place where I keep my finished and unfinished projects. Look around, f
 * [Storytime](https://github.com/jerichoapo/storytime-app): a customized bedtime story generator.
 
 
-**My first ever apps I coded by hand back in ~2022 while taking the 100 Days of Python course:**
+**The first ever apps I coded by hand back in ~2022 while taking the 100 Days of Python course:**
 * [rpg-game](https://github.com/jerichoapo/rpg-game): text-based RPG game.
 * [rock-paper-scissors-game](https://github.com/jerichoapo/rock-paper-scissors-game): beat the random bot in rock, paper, scissors.
 * [tip-splitter-calculator](https://github.com/jerichoapo/tip-splitter-calculator): figure out how much everyone needs to tip.
